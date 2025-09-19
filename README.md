@@ -1,10 +1,6 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: M.syed raashid husain
-RegisterNumber:25009038 
-
-
+ 
 ```
 # Aim:         
 
@@ -43,7 +39,10 @@ RegisterNumber:25009038
 #### 10. Stop
 
 # Program
- python
+```python
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: M.syed raashid husain
+RegisterNumber:25009038
 #step 1: Import libraries and load the dataset (Hours vs Marks)
 import pandas as pd 
 import numpy as np
